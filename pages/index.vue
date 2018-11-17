@@ -1,6 +1,6 @@
 <template>
 <div id=home>
-<div style="background-image:url('https://aviatorsinsurance.com/wp-content/uploads/2018/03/header-home.jpg?id=374')"class="hero vc_row wpb_row vc_inner vc_row-fluid">
+<div style="background-image:url('/header-home.jpg')"class="hero vc_row wpb_row vc_inner vc_row-fluid">
 <div class="vert cont">
 <div class="header-title">Soar to new heights with peace of mind.</div>
 <div class="header-sub">Our complete policies will get you the<br>coverage and confidence you need.</div>
@@ -9,7 +9,7 @@
 		<div class="wpb_single_image wpb_content_element vc_align_center">
 			
 			<figure class="wpb_wrapper vc_figure">
-				<div class="vc_single_image-wrapper   vc_box_border_grey"><img src="https://www.aviatorsinsurance.com/wp-content/uploads/2017/09/top-arrow.png" class="vc_single_image-img attachment-thumbnail" alt="" width="132" height="40"></div>
+				<div class="vc_single_image-wrapper   vc_box_border_grey"><img src="/top-arrow.png" class="vc_single_image-img attachment-thumbnail" alt="" width="132" height="40"></div>
 			</figure>
 		</div>
 	
@@ -26,7 +26,7 @@
 		<div class="wpb_single_image wpb_content_element vc_align_center">
 			
 			<figure class="wpb_wrapper vc_figure">
-				<div class="vc_single_image-wrapper   vc_box_border_grey"><img src="https://www.aviatorsinsurance.com/wp-content/uploads/2017/09/top-arrow.png" class="vc_single_image-img attachment-thumbnail" alt="" width="132" height="40"></div>
+				<div class="vc_single_image-wrapper   vc_box_border_grey"><img src="/top-arrow.png" class="vc_single_image-img attachment-thumbnail" alt="" width="132" height="40"></div>
 			</figure>
 		</div>
 	
@@ -43,7 +43,7 @@
 		<div class="wpb_single_image wpb_content_element vc_align_center">
 			
 			<figure class="wpb_wrapper vc_figure">
-				<div class="vc_single_image-wrapper   vc_box_border_grey"><img src="https://www.aviatorsinsurance.com/wp-content/uploads/2017/09/top-arrow.png" class="vc_single_image-img attachment-thumbnail" alt="" width="132" height="40"></div>
+				<div class="vc_single_image-wrapper   vc_box_border_grey"><img src="/top-arrow.png" class="vc_single_image-img attachment-thumbnail" alt="" width="132" height="40"></div>
 			</figure>
 		</div>
 	

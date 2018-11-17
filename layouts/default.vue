@@ -2,7 +2,7 @@
   <div>
 <header id=header class=cont>
 	<a href="/">
-	<img class="logo" alt="Aviators Insurance" src="https://www.aviatorsinsurance.com/wp-content/uploads/2017/09/main-logo.png">
+	<img class="logo" alt="Aviators Insurance" src="/main-logo.png">
 	</a>
 	<div class=vert>
 		<div class="sticky-phone flexx">
@@ -27,19 +27,19 @@
 <div class="gray-title text-center">I Need Coverage For</div>
 <div class="flex trio cont">
 <div class="graymd">
-<p><img src="https://www.aviatorsinsurance.com//wp-content/uploads/2017/09/top-arrow.png" alt="" width="132" height="40"></p>
+<p><img src="/top-arrow.png" alt="" width="132" height="40"></p>
 <div class="gray-title">Insurance for<br>
 your aircraft</div>
 <p><a href="https://aviators.aeroinsure.com/DTM/US/SNK/Home" target="_blank" rel="noopener">GET A QUOTE</a></p>
 </div>
 <div class="graymd">
-<p><img src="https://www.aviatorsinsurance.com//wp-content/uploads/2017/09/top-arrow.png" alt="" width="132" height="40"></p>
+<p><img src="/top-arrow.png" alt="" width="132" height="40"></p>
 <div class="gray-title">Non-owned<br>
 aircraft insurance</div>
 <p><a href="https://aviators.aeroinsure.com/DTM/US/PNO/Home" target="_blank" rel="noopener">GET A QUOTE</a></p>
 </div>
 <div class="graymd">
-<p><img src="https://www.aviatorsinsurance.com//wp-content/uploads/2017/09/top-arrow.png" alt="" width="132" height="40"></p>
+<p><img src="/top-arrow.png" alt="" width="132" height="40"></p>
 <div class="gray-title">UAV<br>
 insurance</div>
 <p><a href="/contact-us" target="_blank" rel="noopener">GET A QUOTE</a></p>
@@ -62,7 +62,7 @@ insurance</div>
 <div class="cont flex">
 
 <div class=quart>
-<img width="187" height="106" src="https://www.aviatorsinsurance.com/wp-content/uploads/2017/09/footer-logo.png" class="footlogo image wp-image-97  attachment-full size-full" alt="" style="max-width: 100%; height: auto;">
+<img width="187" height="106" src="/footer-logo.png" class="footlogo image wp-image-97  attachment-full size-full" alt="" style="max-width: 100%; height: auto;">
 </div>
 <div class=quart>
 	
@@ -87,7 +87,7 @@ insurance</div>
 <div class=quart>
 <h6>NEWSLETTER</h6>
 <input type="email" name="EMAIL" placeholder="Email" style="width:166px; font-size:13px; background:#fff;" required="">
-<a href="https://www.aviatorsinsurance.com/aviators-brochure.pdf" target="_blank" rel="noopener"><img src="https://www.aviatorsinsurance.com/wp-content/uploads/2017/09/brochure.png"></a>
+<a href="https://www.aviatorsinsurance.com/aviators-brochure.pdf" target="_blank" rel="noopener"><img src="/brochure.png"></a>
 </div>
 </div>
 
