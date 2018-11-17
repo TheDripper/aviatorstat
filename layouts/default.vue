@@ -6,7 +6,7 @@
 	</a>
 	<div class=vert>
 		<div class="sticky-phone flexx">
-		<div class="blue-link"><a  href="/get-a-quote" >GET A QUOTE</a></div>
+		<div class="blue-link"><a  href="/get-a-quote" id=quoter>GET A QUOTE</a></div>
 		<div class=call style="float:right; margin-right:20px;">Give Us A Call<br /><a href="tel:18006635118" class="phone">(800) 663 5118</a></div>
 		</div>
 <nav class="main-menu-w"><ul id="menu-main" class="js--scroll-nav main-menu"><li id="menu-item-421" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-421"><a href="/">Home</a></li>
@@ -17,10 +17,22 @@
 <li id="menu-item-423" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-423"><a href="/contact-us/">Contact Us</a></li>
 </ul></nav>
 
-<div id=burger>
+<div id=burger @click="mob">
 <div class=bar></div>
 <div class=bar></div>
 <div class=bar></div>
+</div>
+
+<div id=mob>
+	<ul id="menu-mob" class="js--scroll-nav main-menu"><li id="menu-item-421" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-421"><a href="/">Home</a></li>
+	<li id="menu-item-422" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-422"><a href="/about-us/">About Us</a></li>
+	<li id="menu-item-426" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-426"><a href="/why-aviators/">Why Aviators</a></li>
+	<li id="menu-item-424" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-424"><a href="/our-products/">Our Products</a></li>
+	<li id="menu-item-425" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-425"><a href="/partners/">Partners</a></li>
+	<li id="menu-item-423" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-423"><a href="/contact-us/">Contact Us</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="/get-a-quote/">GET A QUOTE</a></li>
+	</ul>
+	<span class=close @click="close">&#x78;</span>
 </div>
 
 </div>
@@ -56,11 +68,11 @@ insurance</div>
 <span class=close>&#65336;</span>
 </div>
 
-		<div class="frame blu">
+		<div class="frame blu quoter">
 		<div class=tent>
 			<div class="fat-white">GET A QUOTE</div>
 <p>Let us take you under our wing – Our knowledge of aviation and insurance assures you’ll get the coverage you need for price you want, wherever your journey may take you.</p>
-<a href=# id=gettit>GET A QUOTE</a>
+<a href="/get-a-quote" id=gettit>GET A QUOTE</a>
 		</div>
 		</div>
 
@@ -111,6 +123,20 @@ insurance</div>
 
   </div>
 </template>
+<script>
+export default {
+	methods: {
+		mob: ()=>{
+			document.querySelector('#mob').style.opacity = '1';
+			document.querySelector('#mob').style.pointerEvents = 'auto';
+		},
+		close: ()=> {
+			document.querySelector('#mob').style.opacity = '0';
+			document.querySelector('#mob').style.pointerEvents = 'none';
+		}
+	}
+}
+</script>
 <style>
 html, body {
 	padding: 0;
@@ -152,5 +178,57 @@ html, body {
 * {
 	box-sizing: border-box;
 }
-
+#mob {
+	position: fixed;
+	background: rgba(0,0,0,0.8);
+	display: flex;
+	flex-direction: column;
+	top: 0;
+	left: 0;
+	width: 100vw;
+	height: 100vh;
+	justify-content: center;
+	pointer-events: none;
+	opacity: 0;
+	transition: all 0.3s ease;
+}
+#menu-mob {
+	display: flex;
+	flex-direction: column;
+	text-align: center;
+	padding: 0;
+}
+#menu-mob a {
+	color: white;
+	font-weight: 600;
+	text-transform: uppercase;
+	font-size: 28px;
+	padding: 10px 0;
+	display: block;
+}
+.close {
+	position: absolute;
+	top: 15px;
+	right: 15px;
+	color: white;
+	font-size: 64px;
+	font-weight: 400;
+}
+@media(max-width:940px) {
+	footer .flex {
+		flex-wrap: wrap;
+	}
+	footer .quart {
+		flex: 50%;
+		justify-content: flex-start;
+		align-items: center;
+		display: flex;
+		flex-direction: column;
+	}
+}
+@media(max-width:455px) {
+	footer .quart {
+		flex: 100%;
+	}
+}
 </style>

@@ -175,6 +175,9 @@ export default {
 		width: 100%;
 		margin-bottom: 10px;
 	}
+	#parts {
+		column-count: 2;
+	}
 }
 @media(max-width:600px) {
 	.header-title {
@@ -187,5 +190,12 @@ export default {
 	.header-sub br {
 		display: none;
 	}
+	.tester {
+		height: 600px;
+	}
+	#parts {
+		column-count: 1;
+	}
 }
+
 </style>
