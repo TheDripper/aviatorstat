@@ -3,7 +3,7 @@
 <div style="background-image:url('/header-home.jpg')"class="hero vc_row wpb_row vc_inner vc_row-fluid">
 <div class="vert cont">
 <div class="header-title">Soar to new heights with peace of mind.</div>
-<div class="header-sub">Our complete policies will get you the<br>coverage and confidence you need.</div>
+<div class="header-sub">Our complete policies will get you the <br>coverage and confidence you need.</div>
 	<div class="tri">
 	<div class="text-center bg-shaded wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner "><div class="wpb_wrapper shade">
 		<div class="wpb_single_image wpb_content_element vc_align_center">
@@ -110,6 +110,7 @@ will get you the coverage and the confidence you need.</p>
 </ul>
 	<a class=bluebutt>VIEW OUR PRODUCTS</a>
 <div class=tester>
+<div class=cont>
 <div class="blue-sub">ASK OUR PILOTS</div>
 <div class="gray-title">Testimonials</div>
 		<div class=slickit>
@@ -132,6 +133,7 @@ will get you the coverage and the confidence you need.</p>
 		
 	</div>
 	</div>
+	</div>
 
 	</div>
 
@@ -152,33 +154,38 @@ export default {
 </script>
 
 <style>
-.container
-{
-  min-height: 100vh;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
+.header-sub {
+	font-weight: 700;
 }
-.title
-{
-  font-family: "Quicksand", "Source Sans Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; /* 1 */
-  display: block;
-  font-weight: 300;
-  font-size: 100px;
-  color: #35495e;
-  letter-spacing: 1px;
+@media(max-width:875px) {
+	.hero {
+		height: auto;
+	}
+	.tri {
+		flex-direction: column;
+		width: 100%;
+	}
+	.shade {
+		width: 100%;
+	}
+	.hero .vert {
+		padding: 10px;
+	}
+	.hero .bg-shaded {
+		width: 100%;
+		margin-bottom: 10px;
+	}
 }
-.subtitle
-{
-  font-weight: 300;
-  font-size: 42px;
-  color: #526488;
-  word-spacing: 5px;
-  padding-bottom: 15px;
-}
-.links
-{
-  padding-top: 15px;
+@media(max-width:600px) {
+	.header-title {
+		font-size: 40px;
+		line-height: 48px;
+	}
+	.header-sub {
+		font-size: 16px;
+	}
+	.header-sub br {
+		display: none;
+	}
 }
 </style>

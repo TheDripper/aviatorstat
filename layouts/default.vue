@@ -16,8 +16,15 @@
 <li id="menu-item-425" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-425"><a href="/partners/">Partners</a></li>
 <li id="menu-item-423" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-423"><a href="/contact-us/">Contact Us</a></li>
 </ul></nav>
+
+<div id=burger>
+<div class=bar></div>
+<div class=bar></div>
+<div class=bar></div>
+</div>
+
+</div>
 		
-	</div>
 </header>
     <nuxt/>
 
@@ -104,58 +111,46 @@ insurance</div>
 
   </div>
 </template>
-
 <style>
-html
-{
-  font-family: "Source Sans Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-  font-size: 16px;
-  word-spacing: 1px;
-  -ms-text-size-adjust: 100%;
-  -webkit-text-size-adjust: 100%;
-  -moz-osx-font-smoothing: grayscale;
-  -webkit-font-smoothing: antialiased;
-  box-sizing: border-box;
+html, body {
+	padding: 0;
+	margin: 0;
+	font-family: "Open Sans";
 }
-*, *:before, *:after
-{
-  box-sizing: border-box;
-  margin: 0;
+#header {
+	padding: 0 20px;
 }
-.button--green
-{
-  display: inline-block;
-  border-radius: 4px;
-  border: 1px solid #3b8070;
-  color: #3b8070;
-  text-decoration: none;
-  padding: 10px 30px;
+#burger {
+	width: 40px;
+	height: 30px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	display: none;
 }
-.button--green:hover
-{
-  color: #fff;
-  background-color: #3b8070;
-}
-.button--grey
-{
-  display: inline-block;
-  border-radius: 4px;
-  border: 1px solid #35495e;
-  color: #35495e;
-  text-decoration: none;
-  padding: 10px 30px;
-  margin-left: 15px;
-}
-.button--grey:hover
-{
-  color: #fff;
-  background-color: #35495e;
-}
-#aviate {
-	width: 100vw;
-	display: table;
-}
-.hero {
+.bar {
 	width: 100%;
+	height: 7px;
+	background: #0077c3;
 }
+@media(max-width:940px) {
+	#burger {
+		display: flex;
+	}
+	nav {
+		display: none;
+	}
+	#header .vert {
+		flex-direction: row;
+	}
+}
+@media(max-width:625px) {
+	#header .flexx {
+		display: none;
+	}
+}
+* {
+	box-sizing: border-box;
+}
+
 </style>

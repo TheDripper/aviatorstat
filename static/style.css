@@ -65,10 +65,9 @@ header#header {
 .hero {
     height: calc(100vh - 130px);
     min-height: 600px;
-    width: 100vw;
-	display: flex;
-	flex-direction: column;
-	align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
     background-size: cover;
     background-position: center;
     justify-content: space-between;
@@ -116,6 +115,7 @@ header#header {
 	height: 100%;
 	justify-content: center;
 	width: 100%;
+	padding: 0 20px;
 	padding-right: 15%;
 }
 .blue-sub {
@@ -206,7 +206,6 @@ body {
 	align-items: center;
 }
 .slickit {
-	width: 800px;
 	margin: 0 auto;
 }
 .dott {
@@ -236,7 +235,8 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 #parts {
-	width: 1140px;
+	max-width: 1140px;
+	width: 100%;
 	margin: 0 auto;
 	column-count: 3;
 	padding: 0;
