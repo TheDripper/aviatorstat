@@ -1,6 +1,6 @@
 <template>
 <div id=contact>
-<div style="background-image:url('https://aviatorsinsurance.com/wp-content/uploads/2017/09/header-contact.jpg?id=233')"class="hero mids vc_row wpb_row vc_inner vc_row-fluid">
+<div style="background-image:url('/header-contact.jpg')"class="hero mids vc_row wpb_row vc_inner vc_row-fluid">
 <div class="blu text-center white w-links wpb_column vc_column_container vc_col-sm-6 vc_col-has-fill"><div class="vc_column-inner vc_custom_1506879521581"><div class="wpb_wrapper">
 	<div class="wpb_raw_code wpb_content_element wpb_raw_html">
 		<div class="wpb_wrapper bluflex">

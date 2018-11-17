@@ -1,6 +1,6 @@
 <template>
 <div id=why>
-<div style="background-image:url('https://aviatorsinsurance.com/wp-content/uploads/2017/12/header-why.jpg?id=330')"class="hero vc_row wpb_row vc_inner vc_row-fluid">
+<div style="background-image:url('/header-why.jpg')"class="hero vc_row wpb_row vc_inner vc_row-fluid">
 	<div class="vert cont">
 		<div class="header-title">We Fly<br />& Insure</div>
 		<div class="header-sub">As pilots ourselves, we know the importance of getting you the complete <br />coverage you need at the price you want.</div>
@@ -18,7 +18,7 @@
 </div>
 
 <div class="halfer">
-<div class=mage style="background-image:url('https://aviatorsinsurance.com/wp-content/uploads/2017/09/aviation-bg.jpg?id=157');">
+<div class=mage style="background-image:url('/aviation-bg.jpg');">
 </div>
 <div class=copy>
 <div class="blue-title">Aviation...</div>
@@ -31,12 +31,12 @@
 <div class="blue-title">...Insurance...</div>
 <p>Since the 90’s, our direct underwriter contact with A-rated companies worldwide has enabled us to engage and encourage them to offer complete coverage at reasonable prices. Our success stems from extensive experience in the industry; we have a foundational knowledge of what underwriters are looking for and what they consider to be attractive risks. So we develop well-rounded applications by putting faces to the paperwork through in-depth information about each client.</p>	
 </div>
-<div class=mage style="background-image:url('https://aviatorsinsurance.com/wp-content/uploads/2017/09/insurance-bg.jpg?id=165');">
+<div class=mage style="background-image:url('/insurance-bg.jpg');">
 </div>
 </div>
 
 <div class="halfer">
-<div class=mage style="background-image:url('https://aviatorsinsurance.com/wp-content/uploads/2017/09/you-bg.jpg?id=164');">
+<div class=mage style="background-image:url('/you-bg.jpg');">
 </div>
 <div class=copy>
 <div class="blue-title">...and You</div>

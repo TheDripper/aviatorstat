@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div id=aviate>
 <header id=header class=cont>
 	<a href="/">
 	<img class="logo" alt="Aviators Insurance" src="/main-logo.png">
@@ -150,5 +150,12 @@ html
 {
   color: #fff;
   background-color: #35495e;
+}
+#aviate {
+	width: 100vw;
+	display: table;
+}
+.hero {
+	width: 100%;
 }
 </style>
