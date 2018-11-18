@@ -18,12 +18,12 @@ a {
 	text-decoration: none;
 }
 .blue-link a {
-	background: #0077c3;
+    background: #0077c3;
     color: #fff !important;;
     font-weight: 700;
     padding-left: 15px;
     padding-right: 15px;
-    padding: 10 15px;
+    padding: 10px 15px;
     text-decoration: none;
 }
 .blue-link {

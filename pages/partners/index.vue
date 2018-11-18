@@ -20,7 +20,7 @@
 	<div class="wpb_single_image wpb_content_element vc_align_center   colored">
 		
 		<figure class="wpb_wrapper vc_figure">
-			<a href="http://www.aerospaceim.com/" target="_blank" class="vc_single_image-wrapper   vc_box_border_grey"><img src="https://www.aviatorsinsurance.com/wp-content/uploads/2017/09/icon-01.jpg" class="vc_single_image-img attachment-full" alt="" width="108" height="108"></a>
+			<a href="http://www.aerospaceim.com/" target="_blank" class="vc_single_image-wrapper   vc_box_border_grey"><img src="/icon-01.jpg" class="vc_single_image-img attachment-full" alt="" width="108" height="108"></a>
 		</figure>
 	</div>
 </div></div></div><div class="wpb_column vc_column_container vc_col-sm-8"><div class="vc_column-inner "><div class="wpb_wrapper">
@@ -34,7 +34,7 @@
 	<div class="wpb_single_image wpb_content_element vc_align_center   colored">
 		
 		<figure class="wpb_wrapper vc_figure">
-			<a href="http://www.aig.com/business/industry/aerospace" target="_blank" class="vc_single_image-wrapper   vc_box_border_grey"><img src="https://www.aviatorsinsurance.com/wp-content/uploads/2017/09/icon-02.jpg" class="vc_single_image-img attachment-full" alt="" width="108" height="108"></a>
+			<a href="http://www.aig.com/business/industry/aerospace" target="_blank" class="vc_single_image-wrapper   vc_box_border_grey"><img src="/icon-02.jpg" class="vc_single_image-img attachment-full" alt="" width="108" height="108"></a>
 		</figure>
 	</div>
 </div></div></div><div class="wpb_column vc_column_container vc_col-sm-8"><div class="vc_column-inner "><div class="wpb_wrapper">
@@ -48,7 +48,7 @@
 	<div class="wpb_single_image wpb_content_element vc_align_center   colored">
 		
 		<figure class="wpb_wrapper vc_figure">
-			<a href="http://www.global-aero.com/us/" target="_blank" class="vc_single_image-wrapper   vc_box_border_grey"><img src="https://www.aviatorsinsurance.com/wp-content/uploads/2017/12/icon-03.jpg" class="vc_single_image-img attachment-full" alt="" width="108" height="108"></a>
+			<a href="http://www.global-aero.com/us/" target="_blank" class="vc_single_image-wrapper   vc_box_border_grey"><img src="/icon-03.jpg" class="vc_single_image-img attachment-full" alt="" width="108" height="108"></a>
 		</figure>
 	</div>
 </div></div></div><div class="wpb_column vc_column_container vc_col-sm-8"><div class="vc_column-inner "><div class="wpb_wrapper">
@@ -62,7 +62,7 @@
 	<div class="wpb_single_image wpb_content_element vc_align_center   colored">
 		
 		<figure class="wpb_wrapper vc_figure">
-			<a href="http://londonaviation.net/" target="_blank" class="vc_single_image-wrapper   vc_box_border_grey"><img src="https://www.aviatorsinsurance.com/wp-content/uploads/2017/12/icon-04.jpg" class="vc_single_image-img attachment-full" alt="" width="108" height="108"></a>
+			<a href="http://londonaviation.net/" target="_blank" class="vc_single_image-wrapper   vc_box_border_grey"><img src="/icon-04.jpg" class="vc_single_image-img attachment-full" alt="" width="108" height="108"></a>
 		</figure>
 	</div>
 </div></div></div><div class="wpb_column vc_column_container vc_col-sm-8"><div class="vc_column-inner "><div class="wpb_wrapper">
@@ -76,7 +76,7 @@
 	<div class="wpb_single_image wpb_content_element vc_align_center   colored">
 		
 		<figure class="wpb_wrapper vc_figure">
-			<a href="http://www.nationalhangar.com/" target="_blank" class="vc_single_image-wrapper   vc_box_border_grey"><img src="https://www.aviatorsinsurance.com/wp-content/uploads/2017/12/icon-05.jpg" class="vc_single_image-img attachment-full" alt="" width="108" height="108"></a>
+			<a href="http://www.nationalhangar.com/" target="_blank" class="vc_single_image-wrapper   vc_box_border_grey"><img src="/icon-05.jpg" class="vc_single_image-img attachment-full" alt="" width="108" height="108"></a>
 		</figure>
 	</div>
 </div></div></div><div class="wpb_column vc_column_container vc_col-sm-8"><div class="vc_column-inner "><div class="wpb_wrapper">
@@ -90,7 +90,7 @@
 	<div class="wpb_single_image wpb_content_element vc_align_center   colored">
 		
 		<figure class="wpb_wrapper vc_figure">
-			<a href="http://www.oldrepublicaerospace.com/" target="_blank" class="vc_single_image-wrapper   vc_box_border_grey"><img src="https://www.aviatorsinsurance.com/wp-content/uploads/2017/12/icon-06.jpg" class="vc_single_image-img attachment-full" alt="" width="108" height="108"></a>
+			<a href="http://www.oldrepublicaerospace.com/" target="_blank" class="vc_single_image-wrapper   vc_box_border_grey"><img src="/icon-06.jpg" class="vc_single_image-img attachment-full" alt="" width="108" height="108"></a>
 		</figure>
 	</div>
 </div></div></div><div class="wpb_column vc_column_container vc_col-sm-8"><div class="vc_column-inner "><div class="wpb_wrapper">
@@ -104,7 +104,7 @@
 	<div class="wpb_single_image wpb_content_element vc_align_center   colored">
 		
 		<figure class="wpb_wrapper vc_figure">
-			<a href="http://specialtyaviationunderwriters.com/claims.html" target="_blank" class="vc_single_image-wrapper   vc_box_border_grey"><img src="https://www.aviatorsinsurance.com/wp-content/uploads/2017/12/icon-07.jpg" class="vc_single_image-img attachment-full" alt="" width="108" height="108"></a>
+			<a href="http://specialtyaviationunderwriters.com/claims.html" target="_blank" class="vc_single_image-wrapper   vc_box_border_grey"><img src="/icon-07.jpg" class="vc_single_image-img attachment-full" alt="" width="108" height="108"></a>
 		</figure>
 	</div>
 </div></div></div><div class="wpb_column vc_column_container vc_col-sm-8"><div class="vc_column-inner "><div class="wpb_wrapper">
@@ -118,7 +118,7 @@
 	<div class="wpb_single_image wpb_content_element vc_align_center   colored">
 		
 		<figure class="wpb_wrapper vc_figure">
-			<a href="https://www.usau.com/" target="_blank" class="vc_single_image-wrapper   vc_box_border_grey"><img src="https://www.aviatorsinsurance.com/wp-content/uploads/2017/12/icon-08.jpg" class="vc_single_image-img attachment-full" alt="" width="108" height="108"></a>
+			<a href="https://www.usau.com/" target="_blank" class="vc_single_image-wrapper   vc_box_border_grey"><img src="/icon-08.jpg" class="vc_single_image-img attachment-full" alt="" width="108" height="108"></a>
 		</figure>
 	</div>
 </div></div></div><div class="wpb_column vc_column_container vc_col-sm-8"><div class="vc_column-inner "><div class="wpb_wrapper">
@@ -132,7 +132,7 @@
 	<div class="wpb_single_image wpb_content_element vc_align_center   colored">
 		
 		<figure class="wpb_wrapper vc_figure">
-			<a href="https://www.tmhcc.com/" target="_blank" class="vc_single_image-wrapper   vc_box_border_grey"><img src="https://www.aviatorsinsurance.com/wp-content/uploads/2017/12/icon-09.jpg" class="vc_single_image-img attachment-full" alt="" width="108" height="108"></a>
+			<a href="https://www.tmhcc.com/" target="_blank" class="vc_single_image-wrapper   vc_box_border_grey"><img src="/icon-09.jpg" class="vc_single_image-img attachment-full" alt="" width="108" height="108"></a>
 		</figure>
 	</div>
 </div></div></div><div class="wpb_column vc_column_container vc_col-sm-8"><div class="vc_column-inner "><div class="wpb_wrapper">
@@ -146,7 +146,7 @@
 	<div class="wpb_single_image wpb_content_element vc_align_center   colored">
 		
 		<figure class="wpb_wrapper vc_figure">
-			<a href="http://www.xlinsurance.com/xli/xli/xli_productlist.jsp?id=8" target="_blank" class="vc_single_image-wrapper   vc_box_border_grey"><img src="https://www.aviatorsinsurance.com/wp-content/uploads/2017/12/icon-10.jpg" class="vc_single_image-img attachment-full" alt="" width="108" height="108"></a>
+			<a href="http://www.xlinsurance.com/xli/xli/xli_productlist.jsp?id=8" target="_blank" class="vc_single_image-wrapper   vc_box_border_grey"><img src="/icon-10.jpg" class="vc_single_image-img attachment-full" alt="" width="108" height="108"></a>
 		</figure>
 	</div>
 </div></div></div><div class="wpb_column vc_column_container vc_col-sm-8"><div class="vc_column-inner "><div class="wpb_wrapper">
@@ -160,7 +160,7 @@
 	<div class="wpb_single_image wpb_content_element vc_align_center   colored">
 		
 		<figure class="wpb_wrapper vc_figure">
-			<a href="http://www.qbeamericas.com/the-americas.aspx" target="_blank" class="vc_single_image-wrapper   vc_box_border_grey"><img src="https://www.aviatorsinsurance.com/wp-content/uploads/2017/12/icon-11.jpg" class="vc_single_image-img attachment-full" alt="" width="108" height="108"></a>
+			<a href="http://www.qbeamericas.com/the-americas.aspx" target="_blank" class="vc_single_image-wrapper   vc_box_border_grey"><img src="/icon-11.jpg" class="vc_single_image-img attachment-full" alt="" width="108" height="108"></a>
 		</figure>
 	</div>
 </div></div></div><div class="wpb_column vc_column_container vc_col-sm-8"><div class="vc_column-inner "><div class="wpb_wrapper">
@@ -174,7 +174,7 @@
 	<div class="wpb_single_image wpb_content_element vc_align_center   colored">
 		
 		<figure class="wpb_wrapper vc_figure">
-			<a href="http://www.starrcompanies.com/" target="_blank" class="vc_single_image-wrapper   vc_box_border_grey"><img src="https://www.aviatorsinsurance.com/wp-content/uploads/2017/12/icon-12.jpg" class="vc_single_image-img attachment-full" alt="" width="108" height="108"></a>
+			<a href="http://www.starrcompanies.com/" target="_blank" class="vc_single_image-wrapper   vc_box_border_grey"><img src="/icon-12.jpg" class="vc_single_image-img attachment-full" alt="" width="108" height="108"></a>
 		</figure>
 	</div>
 </div></div></div><div class="wpb_column vc_column_container vc_col-sm-8"><div class="vc_column-inner "><div class="wpb_wrapper">
@@ -188,7 +188,7 @@
 	<div class="wpb_single_image wpb_content_element vc_align_center   colored">
 		
 		<figure class="wpb_wrapper vc_figure">
-			<a href="http://www.wbais.com/" target="_blank" class="vc_single_image-wrapper   vc_box_border_grey"><img src="https://www.aviatorsinsurance.com/wp-content/uploads/2017/12/icon-13.jpg" class="vc_single_image-img attachment-full" alt="" width="108" height="108"></a>
+			<a href="http://www.wbais.com/" target="_blank" class="vc_single_image-wrapper   vc_box_border_grey"><img src="/icon-13.jpg" class="vc_single_image-img attachment-full" alt="" width="108" height="108"></a>
 		</figure>
 	</div>
 </div></div></div><div class="wpb_column vc_column_container vc_col-sm-8"><div class="vc_column-inner "><div class="wpb_wrapper">
@@ -202,7 +202,7 @@
 	<div class="wpb_single_image wpb_content_element vc_align_center   colored">
 		
 		<figure class="wpb_wrapper vc_figure">
-			<a href="https://www.allianz.com/" target="_blank" class="vc_single_image-wrapper   vc_box_border_grey"><img src="https://www.aviatorsinsurance.com/wp-content/uploads/2017/12/icon-14.jpg" class="vc_single_image-img attachment-full" alt="" width="108" height="108"></a>
+			<a href="https://www.allianz.com/" target="_blank" class="vc_single_image-wrapper   vc_box_border_grey"><img src="/icon-14.jpg" class="vc_single_image-img attachment-full" alt="" width="108" height="108"></a>
 		</figure>
 	</div>
 </div></div></div><div class="wpb_column vc_column_container vc_col-sm-8"><div class="vc_column-inner "><div class="wpb_wrapper">
@@ -216,7 +216,7 @@
 	<div class="wpb_single_image wpb_content_element vc_align_center   colored">
 		
 		<figure class="wpb_wrapper vc_figure">
-			<a href="https://beaconais.com/" target="_blank" class="vc_single_image-wrapper   vc_box_border_grey"><img src="https://www.aviatorsinsurance.com/wp-content/uploads/2017/12/icon-15.jpg" class="vc_single_image-img attachment-full" alt="" width="108" height="108"></a>
+			<a href="https://beaconais.com/" target="_blank" class="vc_single_image-wrapper   vc_box_border_grey"><img src="/icon-15.jpg" class="vc_single_image-img attachment-full" alt="" width="108" height="108"></a>
 		</figure>
 	</div>
 </div></div></div><div class="wpb_column vc_column_container vc_col-sm-8"><div class="vc_column-inner "><div class="wpb_wrapper">
@@ -230,7 +230,7 @@
 	<div class="wpb_single_image wpb_content_element vc_align_center   colored">
 		
 		<figure class="wpb_wrapper vc_figure">
-			<a href="http://www.preferredau.com/" target="_blank" class="vc_single_image-wrapper   vc_box_border_grey"><img src="https://www.aviatorsinsurance.com/wp-content/uploads/2017/12/icon-16.jpg" class="vc_single_image-img attachment-full" alt="" width="108" height="108"></a>
+			<a href="http://www.preferredau.com/" target="_blank" class="vc_single_image-wrapper   vc_box_border_grey"><img src="/icon-16.jpg" class="vc_single_image-img attachment-full" alt="" width="108" height="108"></a>
 		</figure>
 	</div>
 </div></div></div><div class="wpb_column vc_column_container vc_col-sm-8"><div class="vc_column-inner "><div class="wpb_wrapper">
@@ -244,7 +244,7 @@
 	<div class="wpb_single_image wpb_content_element vc_align_center   colored">
 		
 		<figure class="wpb_wrapper vc_figure">
-			<a href="https://www.greatamericaninsurancegroup.com/" target="_blank" class="vc_single_image-wrapper   vc_box_border_grey"><img src="https://www.aviatorsinsurance.com/wp-content/uploads/2017/12/icon-17.jpg" class="vc_single_image-img attachment-full" alt="" width="108" height="108"></a>
+			<a href="https://www.greatamericaninsurancegroup.com/" target="_blank" class="vc_single_image-wrapper   vc_box_border_grey"><img src="/icon-17.jpg" class="vc_single_image-img attachment-full" alt="" width="108" height="108"></a>
 		</figure>
 	</div>
 </div></div></div><div class="wpb_column vc_column_container vc_col-sm-8"><div class="vc_column-inner "><div class="wpb_wrapper">
@@ -258,7 +258,7 @@
 	<div class="wpb_single_image wpb_content_element vc_align_center   colored">
 		
 		<figure class="wpb_wrapper vc_figure">
-			<a href="http://www.swissre.com/" target="_blank" class="vc_single_image-wrapper   vc_box_border_grey"><img src="https://www.aviatorsinsurance.com/wp-content/uploads/2017/12/icon-18.jpg" class="vc_single_image-img attachment-full" alt="" width="108" height="108"></a>
+			<a href="http://www.swissre.com/" target="_blank" class="vc_single_image-wrapper   vc_box_border_grey"><img src="/icon-18.jpg" class="vc_single_image-img attachment-full" alt="" width="108" height="108"></a>
 		</figure>
 	</div>
 </div></div></div><div class="wpb_column vc_column_container vc_col-sm-8"><div class="vc_column-inner "><div class="wpb_wrapper">
@@ -272,7 +272,7 @@
 	<div class="wpb_single_image wpb_content_element vc_align_center   colored">
 		
 		<figure class="wpb_wrapper vc_figure">
-			<a href="http://elevonais.com/" target="_blank" class="vc_single_image-wrapper   vc_box_border_grey"><img src="https://www.aviatorsinsurance.com/wp-content/uploads/2017/12/icon-19.jpg" class="vc_single_image-img attachment-full" alt="" width="108" height="108"></a>
+			<a href="http://elevonais.com/" target="_blank" class="vc_single_image-wrapper   vc_box_border_grey"><img src="/icon-19.jpg" class="vc_single_image-img attachment-full" alt="" width="108" height="108"></a>
 		</figure>
 	</div>
 </div></div></div><div class="wpb_column vc_column_container vc_col-sm-8"><div class="vc_column-inner "><div class="wpb_wrapper">
@@ -286,7 +286,7 @@
 	<div class="wpb_single_image wpb_content_element vc_align_center   colored">
 		
 		<figure class="wpb_wrapper vc_figure">
-			<div class="vc_single_image-wrapper   vc_box_border_grey"><img src="https://www.aviatorsinsurance.com/wp-content/uploads/2017/12/icon-20.jpg" class="vc_single_image-img attachment-full" alt="" width="108" height="108"></div>
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img src="/icon-20.jpg" class="vc_single_image-img attachment-full" alt="" width="108" height="108"></div>
 		</figure>
 	</div>
 </div></div></div><div class="wpb_column vc_column_container vc_col-sm-8"><div class="vc_column-inner "><div class="wpb_wrapper">
