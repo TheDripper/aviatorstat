@@ -31,7 +31,7 @@
 	</div>
 	<div id=formmap class=cont>
 		<div class=formcont>
-<form action='/' method="post" class="wpcf7-form" netlify>
+<form name="contact" method="POST" netlify>
 <div >
 <input type="hidden" name="_wpcf7" value="4">
 <input type="hidden" name="_wpcf7_version" value="5.0.5">
