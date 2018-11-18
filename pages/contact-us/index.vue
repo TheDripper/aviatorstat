@@ -31,7 +31,7 @@
 	</div>
 	<div id=formmap class=cont>
 		<div class=formcont>
-<form action="send.php" method="post" class="wpcf7-form" novalidate="novalidate" _lpchecked="1">
+<form action='/' method="post" class="wpcf7-form" netlify>
 <div >
 <input type="hidden" name="_wpcf7" value="4">
 <input type="hidden" name="_wpcf7_version" value="5.0.5">
@@ -103,6 +103,7 @@ iframe {
 	width: 100%;
 	max-width: 500px;
 	height: 500px;
+	filter: grayscale(100%);
 }
 #formmap {
 	display: flex;
