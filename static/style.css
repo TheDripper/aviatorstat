@@ -281,6 +281,7 @@ footer h6 {
 	font-size: 15px;
 	line-height: 15px;
 	color: #ffffff;
+	margin: 20px 0;
 }
 footer a {
 	color: white !important;
@@ -291,7 +292,7 @@ footer a {
 .shade {
 	background: rgba(0,0,0,0.5);
 	padding: 20px;
-	border-radius: 15px;
+	border-radius: 5px;
 	display: flex;
 	flex-direction: column;
 	align-items: center;
@@ -327,6 +328,7 @@ footer p {
 	display: block;
 	margin: 0;
 	line-height: 16px;
+	margin-bottom: 5px;
 }
 .footlogo {
 	margin-top: 30px;

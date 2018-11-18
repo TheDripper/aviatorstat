@@ -31,6 +31,7 @@
 	<li id="menu-item-425" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-425"><a href="/partners/">Partners</a></li>
 	<li id="menu-item-423" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-423"><a href="/contact-us/">Contact Us</a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="/get-a-quote/">GET A QUOTE</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="tel:18006635118">(800) 663-5118</a></li>
 	</ul>
 	<span class=close @click="close">&#x78;</span>
 </div>
@@ -111,7 +112,7 @@ insurance</div>
 </div>
 
 <div class="closer cont">
-<p>© 2018 AVIATORS INSURANCE ALL RIGHTS RESERVED. <a href="http://starmenusa.com/" target="_blank" rel="noopener">MAKING BRANDS WORK™</a>
+<p>© 2018 AVIATORS INSURANCE ALL RIGHTS RESERVED.<br /> <a href="http://starmenusa.com/" target="_blank" rel="noopener">MAKING BRANDS WORK™ | </a>
 <a href="/privacy">PRIVACY POLICY</a> 
 </p>
 </div>
@@ -153,11 +154,13 @@ html, body {
 	flex-direction: column;
 	justify-content: space-between;
 	display: none;
+	cursor: pointer;
 }
 .bar {
 	width: 100%;
-	height: 7px;
+	height: 5px;
 	background: #0077c3;
+	border-radius: 5px;
 }
 @media(max-width:940px) {
 	#burger {
@@ -191,6 +194,7 @@ html, body {
 	pointer-events: none;
 	opacity: 0;
 	transition: all 0.3s ease;
+	z-index: 999;
 }
 #menu-mob {
 	display: flex;
@@ -208,11 +212,12 @@ html, body {
 }
 .close {
 	position: absolute;
-	top: 15px;
-	right: 15px;
+	top: 0px;
+	right: 20px;
 	color: white;
-	font-size: 64px;
+	font-size: 50px;
 	font-weight: 400;
+	cursor: pointer;
 }
 @media(max-width:940px) {
 	footer .flex {
@@ -229,6 +234,9 @@ html, body {
 @media(max-width:455px) {
 	footer .quart {
 		flex: 100%;
+	}
+	footer a {
+		font-size: 14px;
 	}
 }
 .come-in {
@@ -254,5 +262,20 @@ html, body {
 }
 #menu-main li:hover:after {
 	width: 100%;
+}
+.gray-title {
+	line-height: 1;
+}
+.blu .whitebutt {
+	color: white;
+	border: 2px solid white;
+	padding: 10px 15px;
+	font-weight: 400;
+	transition: all 0.2s ease;
+}
+.blu .whitebutt:hover {
+	color: #0077c3;
+	background-color: white !important;
+	border-color: #0077c3;
 }
 </style>

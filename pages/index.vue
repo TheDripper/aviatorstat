@@ -73,7 +73,7 @@
 		<div class=tent>	
 			<div class="white-title">Aviation, Insurance, and You</div>
 			<p>As pilots, we know what our clients need because we have already been there. With decades of piloting experience under our belts, we have flown a variety of planes, from piston to turbine, pleasure to commercial. No matter the pilot or the aircraft, we will include the things you know and the things you haven’t thought of filling in all the gaps for complete coverage.</p>
-	<a onmouseleave="this.style.borderColor=''; this.style.backgroundColor='transparent'; this.style.color=''" onmouseenter="this.style.borderColor='#0077c3'; this.style.backgroundColor='#0077c3'; this.style.color='#ffffff';" class="vc_general vc_btn3 vc_btn3-size-lg vc_btn3-shape-square vc_btn3-style-outline-custom" href="/why-aviators" title="" style="background-color: transparent;">WHY AVIATORS</a>
+	<a class="whitebutt" href="/why-aviators" title="" style="background-color: transparent;">WHY AVIATORS</a>
 		</div>
 		</div>
 		<div class=frame>
@@ -196,6 +196,13 @@ export default {
 	#parts {
 		column-count: 1;
 	}
+}
+.tester {
+	padding: 0 10px;
+}
+.closer {
+	padding: 0 10px;
+	text-align: center;
 }
 
 </style>
