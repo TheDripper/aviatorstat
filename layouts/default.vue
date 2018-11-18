@@ -231,4 +231,28 @@ html, body {
 		flex: 100%;
 	}
 }
+.come-in {
+  transform: translateY(150px);
+  animation: come-in 0.8s ease forwards;
+}
+.come-in:nth-child(odd) {
+  animation-duration: 0.6s; /* So they look staggered */
+}
+
+@keyframes come-in {
+  to { transform: translateY(0); }
+}
+#menu-main li:after {
+	position: absolute;
+	left: 0;
+	bottom: 0;
+	height: 5px;
+	width: 0%;
+	background: #f9f141;
+	content: '';
+	transition: all 0.2s ease;
+}
+#menu-main li:hover:after {
+	width: 100%;
+}
 </style>

@@ -44,18 +44,18 @@
 </div>
 </div>
 
-<div class=bluecell>
+<div class="bluecell frame">
 <h2>It's All About You</h2>
 <p>We do not just check off boxes on a form; we really delve into your needs as a client based on all aspects of your life in the air. Gathering thorough information about your personal goals and other details, we create a complete client picture, not just a piece of paper.</p>
 </div>
 
-<div class=bluecell>
+<div class="bluecell frame">
 <h2>Applications with a Face</h2>
 <p>With detailed information about you readily available, an underwriter has a strong sense of a real person with real insurance needs. So instead of rejecting your application, it is considered as both a real person and a real opportunity for the underwriter. Since they appreciate the opportunity, they are more likely to offer the insurance you need at a great price.</p>
 </div>
 	
 
-<div class=bluecell>
+<div class="bluecell frame">
 <h2>We Don’t Settle</h2>
 <p>Armed with an attractive, complete client picture, we connect directly with A.M. Best “A” Rated or better insurance carriers for the best coverage at the best price. Once the perfect match is chosen, effciency is the name of the game as we get you signed off and in the air.</p>
 </div>

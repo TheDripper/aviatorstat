@@ -195,8 +195,8 @@ body {
 	justify-content: center;
 	align-items: center;
 	flex-direction: column;
-	width: 750px;
-	max-width: 100%;
+	max-width: 750px;
+	width: 100%;
 	padding: 80px 20px;
 	text-align: center;
 }
@@ -413,7 +413,7 @@ footer p {
 }
 .halfer {
 	display: flex;
-	height: 400px;
+	height: 500px;
 }
 .mage {
 	width: 50%;
@@ -432,11 +432,15 @@ footer p {
 	color: #0077c3;
 }
 .bluecell {
-	width: 750px;
+	max-width: 750px;
+	width: 100%;
 	padding: 40px;
 	background: #0077c3;
 	margin: 40px auto;
 	color: white;
+}
+.bluecell.frame {
+	flex-direction: column;
 }
 .bluecell h2 {
 	font-weight: 800;
@@ -484,6 +488,21 @@ footer p {
 .mids {
 	justify-content: center;
 	align-items: center;
+}
+@media(max-width:870px) {
+	.halfer {
+		flex-wrap: wrap;
+		height: auto;
+	}
+	.mage {
+		order: 1;
+		width: 100%;
+		height: 300px;
+	}
+	.copy {
+		order: 2;
+		width: 100%;
+	}
 }
 @media(max-width:600px) {
 	.frame .tent {

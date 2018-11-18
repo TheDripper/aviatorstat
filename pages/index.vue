@@ -109,7 +109,7 @@ will get you the coverage and the confidence you need.</p>
 <li>Aerial Applications</li>
 </ul>
 	<a class=bluebutt>VIEW OUR PRODUCTS</a>
-<div class=tester>
+<div class="tester frame">
 <div class=cont>
 <div class="blue-sub">ASK OUR PILOTS</div>
 <div class="gray-title">Testimonials</div>
