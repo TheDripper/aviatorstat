@@ -31,7 +31,7 @@
 	</div>
 	<div id=formmap class=cont>
 		<div class=formcont>
-<form name="contact" method="POST" data-netlify="true" action="/contact-us/">
+<form name="contact" method="POST" data-netlify="true" action="/contact-us">
 <p><label> Name (required)<br>
     <span class="wpcf7-form-control-wrap your-name"><input type="text" name="your-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false"></span> </label></p>
 <p><label> Phone Number (required)<br>
