@@ -31,14 +31,7 @@
 	</div>
 	<div id=formmap class=cont>
 		<div class=formcont>
-<form name="contact" method="POST" netlify>
-<div >
-<input type="hidden" name="_wpcf7" value="4">
-<input type="hidden" name="_wpcf7_version" value="5.0.5">
-<input type="hidden" name="_wpcf7_locale" value="en">
-<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f4-p419-o1">
-<input type="hidden" name="_wpcf7_container_post" value="419">
-</div>
+<form name="contact" method="POST" netlify action="/">
 <p><label> Name (required)<br>
     <span class="wpcf7-form-control-wrap your-name"><input type="text" name="your-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false"></span> </label></p>
 <p><label> Phone Number (required)<br>
@@ -48,9 +41,9 @@
 <p><label> Coverage (required)<br>
 <span class="wpcf7-form-control-wrap coverage"><select name="coverage" class="wpcf7-form-control wpcf7-select wpcf7-validates-as-required" aria-required="true" aria-invalid="false"><option value="">---</option><option value="General Liability Insurance">General Liability Insurance</option><option value="Hanger Insurance">Hanger Insurance</option><option value="Premises Insurance">Premises Insurance</option><option value="Instruction + Rental Insurance">Instruction + Rental Insurance</option><option value="Insurance for Flying Clubs">Insurance for Flying Clubs</option><option value="Non-Owned Renters Insurance">Non-Owned Renters Insurance</option><option value="Warbirds Insurance">Warbirds Insurance</option><option value="Airport Liability Insurance">Airport Liability Insurance</option><option value="Airport/FBO Insurance">Airport/FBO Insurance</option><option value="UAV Insurance">UAV Insurance</option><option value="Agricultural Aircraft Insurance">Agricultural Aircraft Insurance</option><option value="Workers Compensation Insurance">Workers Compensation Insurance</option><option value="Insurance for Pleasure and Business">Insurance for Pleasure and Business</option><option value="Corporate Aircraft Insurance">Corporate Aircraft Insurance</option><option value="Maintenance Shop Insurance">Maintenance Shop Insurance</option><option value="Product Liability Insurance">Product Liability Insurance</option><option value="Charter Insurance">Charter Insurance</option><option value="Helicopter Insurance">Helicopter Insurance</option><option value="Insurance for Event Coverage">Insurance for Event Coverage</option><option value="Aerial Application Insurance">Aerial Application Insurance</option><option value="UAV (drone) Insurance">UAV (drone) Insurance</option><option value="Other">Other</option></select></span> </label></p>
 <p><label> Message<br>
-    <span class="wpcf7-form-control-wrap your-message"><textarea name="your-message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea" aria-invalid="false"></textarea></span> </label></p>
-<p><input type="submit" value="SUBMIT" class="wpcf7-form-control wpcf7-submit"><span class="ajax-loader"></span></p>
-<div class="wpcf7-response-output wpcf7-display-none"></div></form>
+    <span class="wpcf7-form-control-wrap your-message"><textarea name="your-message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea"></textarea></span> </label></p>
+<button type="submit">Submit</button>
+</form>
 		</div>
 		<div class=mapcont>
 		<iframe src="https://www.google.com/maps/embed/v1/place?key=AIzaSyDNsqsAUJo275yOvPdZj-A0q0DZRknkrwE&q=Aviators+Insurance+Agency+Inc">
