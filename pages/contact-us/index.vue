@@ -44,6 +44,7 @@
 <p><label> Message<br>
     <span class="wpcf7-form-control-wrap your-message"><textarea name="your-message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea"></textarea></span> </label></p>
   <input type="hidden" name="form-name" value="contact" />  
+  <input type="hidden" name="subject" value="Website Inquiry | Aviators Insurance Agency" />  
 <button type="submit">Submit</button>
 </form>
 		</div>
