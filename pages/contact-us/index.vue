@@ -34,7 +34,7 @@
 <form name="contact" method="post" data-netlify="true" data-netlify-honeypot="bot-field" action="/contact-us">
 <input type="hidden" name="bot-field" />
 <p><label> Name (required)<br>
-    <span class="wpcf7-form-control-wrap your-name"><input type="text" name="your-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false"></span> </label></p>
+    <span class="wpcf7-form-control-wrap your-name"><input type="text" name="your-name" value="" size="40" class="lit wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false"></span> </label></p>
 <p><label> Phone Number (required)<br>
 <span class="wpcf7-form-control-wrap tel-939"><input type="tel" name="tel-939" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-tel wpcf7-validates-as-required wpcf7-validates-as-tel" aria-required="true" aria-invalid="false"></span> </label></p>
 <p><label> Email (required)<br>
@@ -58,7 +58,7 @@
 
 </template>
 <style>
-input[type="text"], input[type="date"], input[type="datetime"], input[type="datetime-local"], input[type="time"], input[type="month"], input[type="week"], input[type="password"], input[type="search"], input[type="email"], input[type="url"], input[type="tel"], input[type="number"], textarea {
+input[type="text"], input[type="date"], input[type="datetime"], input[type="datetime-local"], input[type="time"], input[type="month"], input[type="week"], input[type="password"], input[type="search"], input[type="email"], input[type="url"], input[type="tel"], input[type="number"], textarea, .lit {
 	font-family: futura-pt, 'Source Sans Pro', Helvetica, Tahoma, Arial, sans-serif;
 	-webkit-font-smoothing: antialiased;
 	display: inline-block;
@@ -88,7 +88,7 @@ input[type="text"], input[type="date"], input[type="datetime"], input[type="date
 	-webkit-transition: .4s all;
 	transition: .4s all;
 }
-input[type="text"]:focus, input[type="date"]:focus, input[type="datetime"]:focus, input[type="datetime-local"]:focus, input[type="time"]:focus, input[type="month"]:focus, input[type="week"]:focus, input[type="password"]:focus, input[type="search"]:focus, input[type="email"]:focus, input[type="url"]:focus, input[type="tel"]:focus, input[type="number"]:focus, textarea:focus {
+input[type="text"]:focus, input[type="date"]:focus, input[type="datetime"]:focus, input[type="datetime-local"]:focus, input[type="time"]:focus, input[type="month"]:focus, input[type="week"]:focus, input[type="password"]:focus, input[type="search"]:focus, input[type="email"]:focus, input[type="url"]:focus, input[type="tel"]:focus, input[type="number"]:focus, textarea:focus, .lit:focus {
     box-shadow: inset 0 -2px 0 transparent;
     font-weight: 700;
     background-size: 100% 2px;
