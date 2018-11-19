@@ -119,11 +119,12 @@ header#header {
 	padding-right: 15%;
 }
 .blue-sub {
-    font-size: 14px;
+    font-size: 20px;
     line-height: 25px;
     color: #0077c3;
     font-weight: 700;
     margin-bottom: 30px;
+    text-transform: uppercase;
 }
 .gray-title {
     font-size: 45px;
@@ -331,7 +332,6 @@ footer p {
 	margin-bottom: 5px;
 }
 .footlogo {
-	margin-top: 30px;
 }
 .closer p {
 	font-size: 12px;

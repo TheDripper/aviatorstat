@@ -284,17 +284,21 @@ html, body {
 .footlogo {
 	width: 120px;
 }
+
 footer h6 {
 	margin: 10px 0;
 }
 footer p {
 	margin: 5px 0;
 }
+footer {
+	padding: 20px;
+}
 @media(max-width:400px) {
 	.logo {
 		width: 100px;
 	}
-	#header {
+	header#header {
 		height: 90px;
 	}
 }

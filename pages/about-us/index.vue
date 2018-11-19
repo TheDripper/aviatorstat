@@ -23,6 +23,7 @@
 <div class="gray-title">Our Leadership</div>
 <p>We are proud to have gained industry-wide respect for our<br> 
 dedication to aviation insurance.</p>
+<br />
 <div class="big-blue">Mike Strombeck</div>
 <p class="short">A pilot since the mid-70’s, Mike’s flying career has spanned from Certified Flight Instructor to Regional Airline Pilot. After graduating with a B.S. from Central Washington University with a double major in aircraft systems and management and a minor in business, Mike’s enthusiasm for aviation drove him to obtain ATP, Airplane Single and Multi-Engine Instrument, CFI, CFII and MEI certifications.</p>
 <div class="big-blue">Peter Rota</div>
