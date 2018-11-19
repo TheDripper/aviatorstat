@@ -111,6 +111,26 @@ iframe {
 }
 .mapcont {
 	flex: 50%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+form {
+	max-width: 100%;
+	width: 96vw;
+}
+@media(max-width:980px) {
+	#formmap {
+		flex-direction: column;
+	}
+	.formcont {
+		flex: 100%;
+		margin-bottom: 20px;
+	}
+	.mapcont {
+		flex: 100%;
+		width: 100%;
+	}
 }
 
 </style>
