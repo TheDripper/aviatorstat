@@ -294,5 +294,8 @@ footer p {
 	.logo {
 		width: 100px;
 	}
+	#header {
+		height: 90px;
+	}
 }
 </style>
