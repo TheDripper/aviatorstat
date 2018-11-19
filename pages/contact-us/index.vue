@@ -108,9 +108,12 @@ iframe {
 }
 .formcont {
 	flex: 50%;
+	width: 50%;
+	padding: 0 20px;
 }
 .mapcont {
 	flex: 50%;
+	width: 50%;
 	display: flex;
 	justify-content: center;
 	align-items: center;
@@ -125,11 +128,23 @@ form {
 	}
 	.formcont {
 		flex: 100%;
+		width: 100%;
 		margin-bottom: 20px;
+		display: flex;
+		justify-content: center;
 	}
 	.mapcont {
 		flex: 100%;
 		width: 100%;
+	}
+	form {
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+	}
+	form p {
+		width: 100%;
+		max-width: 450px;
 	}
 }
 

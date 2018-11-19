@@ -278,4 +278,7 @@ html, body {
 	background-color: white !important;
 	border-color: #0077c3;
 }
+.closer {
+	text-align: center;
+}
 </style>
