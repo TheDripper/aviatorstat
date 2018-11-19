@@ -31,7 +31,7 @@
 	</div>
 	<div id=formmap class=cont>
 		<div class=formcont>
-<form name="contact" method="post" data-netlify="true" data-netlify-honeypot="bot-field" action="/contact-us">
+<form name="contact" method="post" data-netlify="true" data-netlify-honeypot="bot-field" action="/thanks">
 <input type="hidden" name="bot-field" />
 <p><label> Name (required)<br>
     <span class="wpcf7-form-control-wrap your-name"><input type="text" name="your-name" value="" size="40" class="lit wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false"></span> </label></p>
@@ -45,7 +45,7 @@
     <span class="wpcf7-form-control-wrap your-message"><textarea name="your-message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea"></textarea></span> </label></p>
   <input type="hidden" name="form-name" value="contact" />  
   <input type="hidden" name="subject" value="Website Inquiry | Aviators Insurance Agency" />  
-<button type="submit">Submit</button>
+<button type="submit">Send</button>
 </form>
 		</div>
 		<div class=mapcont>
@@ -105,6 +105,25 @@ iframe {
 	display: flex;
 	width: 100%;
 	align-items: center;
+	padding: 20px 0;
+}
+#formmap button {
+	width: 100px;
+	padding: 10px 0;
+	display: block;
+	margin: 0 auto;
+	border: 2px solid #0077c3;
+	background: none;
+	font-size: 18px;
+	text-transform: uppercase;
+	color: #0077c3;
+	font-weight: 500 !important;
+	transition: all 0.2s ease;
+	cursor: pointer;
+}
+#formmap button:hover {
+	color: white;
+	background: #0077c3;
 }
 .formcont {
 	flex: 50%;

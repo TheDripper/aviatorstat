@@ -401,6 +401,12 @@ footer p {
 	color: white;
 	border: 3px solid #f7ee51;
 	padding: 5px 10px;
+	font-weight: 500;
+	transition: all 0.3s ease;
+}
+#gettit:hover {
+	background: #f7ee51;
+	color: #0077c3;
 }
 
 .big-blue {
