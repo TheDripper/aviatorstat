@@ -281,4 +281,18 @@ html, body {
 .closer {
 	text-align: center;
 }
+.footlogo {
+	width: 120px;
+}
+footer h6 {
+	margin: 10px 0;
+}
+footer p {
+	margin: 5px 0;
+}
+@media(max-width:400px) {
+	.logo {
+		width: 100px;
+	}
+}
 </style>
