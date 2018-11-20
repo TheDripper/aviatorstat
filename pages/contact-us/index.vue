@@ -32,7 +32,6 @@
 	<div id=formmap class=cont>
 		<div class=formcont>
 <form name="contact" method="post" data-netlify="true" data-netlify-honeypot="bot-field" action="/thanks">
-<input type="hidden" name="bot-field" />
 <p><label> Name (required)<br>
     <span class="wpcf7-form-control-wrap your-name"><input type="text" name="your-name" value="" size="40" class="lit wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false"></span> </label></p>
 <p><label> Phone Number (required)<br>
@@ -44,6 +43,7 @@
 <p><label> Message<br>
     <span class="wpcf7-form-control-wrap your-message"><textarea name="your-message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea"></textarea></span> </label></p>
   <input type="hidden" name="form-name" value="contact" />  
+  <span class=hide><input name="bot-field" /></span>
   <input type="hidden" name="subject" value="Website Inquiry | Aviators Insurance Agency" />  
 <button type="submit">Send</button>
 </form>
@@ -167,4 +167,7 @@ form {
 	}
 }
 
+.hide {
+	display: none;
+}
 </style>
