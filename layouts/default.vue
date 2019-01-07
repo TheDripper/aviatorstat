@@ -112,7 +112,7 @@ insurance</div>
 </div>
 
 <div class="closer cont">
-<p>© 2018 AVIATORS INSURANCE ALL RIGHTS RESERVED.<br /> <a href="http://starmenusa.com/" target="_blank" rel="noopener">MAKING BRANDS WORK™ | </a>
+<p>© 2019 AVIATORS INSURANCE ALL RIGHTS RESERVED.<br /> <a href="http://starmenusa.com/" target="_blank" rel="noopener">MAKING BRANDS WORK™ | </a>
 <a href="/privacy">PRIVACY POLICY</a> 
 </p>
 </div>
